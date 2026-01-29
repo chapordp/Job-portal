@@ -1,4 +1,5 @@
 # React + Vite
+THIS IS A LANDING PAGE FOR A JOB PORTAL, BUILT WITH REACT AND REACT BOOTSTRAP DEPENDENCIES.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
