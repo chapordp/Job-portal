@@ -4,7 +4,7 @@ import Col from 'react-bootstrap/Col'
 import Button from 'react-bootstrap/Button'
 import Form from 'react-bootstrap/Form'
 import Jobs from './jobs'
-import Contact from './Contact'
+// import Contact from './contact'
 
 export default function Hero() {
   return (
