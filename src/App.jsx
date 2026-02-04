@@ -3,7 +3,8 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Jobs from './components/jobs'
 import Apply from './components/Apply'
-import Contact from './components/Contact'
+import Contact from './components/contact'
+
 
 function App() {
   return (
