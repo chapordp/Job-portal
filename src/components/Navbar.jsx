@@ -23,7 +23,7 @@ function NavScrollExample() {
             <Nav.Link as={Link} to="/jobs">Jobs</Nav.Link>
             <NavDropdown title="Apply Jobs" id="navbarScrollingDropdown">
               {/* <NavDropdown.Item href="#action3">Apply Jobs</NavDropdown.Item> */}
-              <NavDropdown.Item href="/Apply">
+              <NavDropdown.Item href="/apply">
                 Apply
               </NavDropdown.Item>
               <NavDropdown.Divider />
